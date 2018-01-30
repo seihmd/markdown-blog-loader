@@ -1,7 +1,6 @@
 ---
 title: this is a test with yaml-front-matter
-tags: ['common-tag', 'yaml-tag']
-category: ['common-cate', 'yaml-cate']
+tags: ['yaml-tag']
 date: '2018-01-01'
 ---
 
